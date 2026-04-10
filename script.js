@@ -6,7 +6,7 @@ const citySearch = document.querySelector("#citySearch");
 const btn = document.querySelector("#search-city");
 const weatherIcon = document.querySelector(".weather-icon")
 
-const apiKey = "39d01f42047e8e11f87129adaa618eba";
+const apiKey = //your api key
 const apiUrl = "https://api.openweathermap.org/data/2.5/weather?units=metric&q=";
 
 
